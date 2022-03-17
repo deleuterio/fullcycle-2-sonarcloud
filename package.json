@@ -1,0 +1,23 @@
+{
+  "name": "fullcycle-2-sonarcloud",
+  "version": "1.0.0",
+  "description": "Testing sonarcloud service",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit --coverage --runInBand test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deleuterio/fullcycle-2-sonarcloud.git"
+  },
+  "author": "deleuterio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deleuterio/fullcycle-2-sonarcloud/issues"
+  },
+  "homepage": "https://github.com/deleuterio/fullcycle-2-sonarcloud#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {}
+}
